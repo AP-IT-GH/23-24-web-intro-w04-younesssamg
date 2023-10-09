@@ -1,7 +1,3 @@
-# W4-Bootstrap-Layout
-
-
-
 # 💻 LES: Week 4: Bootstrap & Layout
 
 ## 🥅 Overzicht en Leerdoelen
