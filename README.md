@@ -1,35 +1,36 @@
-# 💻 LES: Week 4: Bootstrap & Layout
+# 💻 04. Bootstrap & lay-out
 
-## 🥅 Overzicht en Leerdoelen
+## 🥅 overzicht en leerdoelen
 
 Tijdens de lessen van deze week leer je:
- - bootstrap Grid gebruiken
- - wat bootstrap Grid breakpoints zijn
- - bootstrap kleuren gebruiken
- - eigen CSS toevoegen
 
-## 🔍 Week 4: Bootstrap & Layout
+- Bootstrap-grid gebruiken
+- wat Bootstrap Grid breakpoints zijn
+- Bootstrap-kleuren gebruiken
+- eigen CSS toevoegen
 
-In deze repository vind je 3 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` *in die map*.
+## 🔍 week 04: Bootstrap & lay-out
+
+In deze repository vind je 3 oefening terug, elk in hun eigen map. De oefening staat telkens beschreven in het bestand `README.md` _in die map_.
 
 **Voor je aan de oefeningen begint** lees je best de volgende onderdelen uit de Bootstrap documentatie:
 
- - https://getbootstrap.com/docs/5.2/layout/breakpoints/
- - https://getbootstrap.com/docs/5.2/layout/containers/
- - https://getbootstrap.com/docs/5.2/layout/grid/
- - https://getbootstrap.com/docs/5.2/utilities/colors/
+- https://getbootstrap.com/docs/5.3/layout/breakpoints/
+- https://getbootstrap.com/docs/5.3/layout/containers/
+- https://getbootstrap.com/docs/5.3/layout/grid/
+- https://getbootstrap.com/docs/5.3/utilities/colors/
 
-Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://classroom.github.com/a/DVKbsbLg) gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de upload-zone op [Digitap](https://learning.ap.be/course/view.php?id=58872#section-5)!
+Wanneer je alle oefeningen hebt afgewerkt, kan je op je `Github Repo` gaan naar de knop `Code` > `Download ZIP`. Upload deze zip in de uploadzone op Digitap. Nadien corrigeer je zelf jouw labo op basis van de correctiesleutel op Digitap, om zo te leren uit jouw fouten.
 
-## 💡 Belangrijke Termen
+## 💡 belangrijke termen
 
-| Term                 | Definitie                                                                                                                                  |
+| term                 | definitie                                                                                                                                  |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | HTML                 | Een taal die gebruikt wordt om de structuur van een website te bepalen.                                                                    |
 | CSS                  | Een taal die gebruikt wordt om de opmaak van een website te bepalen.                                                                       |
 | commentaar           | Een stuk tekst in de code dat genegeerd wordt door de computer. Dit kan gebruikt worden om extra uitleg bij code te geven.                 |
 | browser              | Het programma waarmee je een website kunt bezoeken.                                                                                        |
-| *.html               | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
+| \*.html              | Met deze bestands-extensie worden pagina's van een website opgeslagen als document.                                                        |
 | index.html           | De standaard startpagina van een website. Als je geen pagina meegeeft aan het adres van de website, wordt deze pagina automatisch geladen. |
 | tag                  | Een kleiner dan (`<`) en groter dan (`>`) teken waartussen een codewoord staat.                                                            |
 | tagnaam              | Een codewoord dat inhoud aanduidt voor een bepaald doel.                                                                                   |
@@ -57,9 +58,9 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je [Github Repo](https://cl
 | alt attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
 | href attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
 
-## 📚 Bronnen
+## 📚 bronnen
 
 - [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/html/html-structuur)
+- [Bootstrap](https://getbootstrap.com)
 - [w3schools](https://www.w3schools.com)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Bootstrap documentatie](https://getbootstrap.com/docs/5.2/getting-started/introduction/)

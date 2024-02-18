@@ -1,6 +1,6 @@
-# 💻 LES: W4 - HTML & Bootstrap - Oefening 01
+# 💻 04. Bootstrap & lay-out > oefening 02
 
-## 🛠️ Opdrachten
+## 🛠️ opdrachten
 
 ### `index.html` openen
 
@@ -8,15 +8,15 @@
 
 ### `style.css` koppelen
 
-- [ ] koppel de eigen css uit `style.css` aan de HTML.
+- [ ] Koppel de eigen css uit `style.css` aan de HTML.
 
-### Voorbeeld Namaken
+### voorbeeld namaken
 
 - [ ] Maak de printscreens zo goed mogelijk na.
 - [ ] Maak correct gebruik van HTML5 layout-elementen (géén `<div>` elementen!).
-- [ ] zorg voor de uitlijning van de teksten met behulp van Bootstrap.
-- [ ] zorg dat alle articles de correcte tekstkleuren krijgen
-- [ ] de laatste section krijgt een klasse `kleur-xxl` met een achtergrondkleur van `#cf04beb4`
+- [ ] Zorg voor de uitlijning van de teksten met behulp van Bootstrap.
+- [ ] Zorg dat alle articles de correcte tekstkleuren krijgen
+- [ ] De laatste section krijgt een klasse `kleur-xxl` met een achtergrondkleur van `#cf04beb4`
     - voor de media query `@media (min-width:1400px)`
     - zie ook *laatste printscreen*
 
@@ -31,7 +31,7 @@
 #### printscreen nét iets groter van 1400px
 ![printscreen nét iets groter van 1400px](_readme-files/image-4.png)
 
-## 💡 Vragen
+## 💡 vragen
 
- - Wat is een `breakpoint` in het bootstrap Grid systeem?
+ - Wat is een `breakpoint` in het Bootstrap grid-systeem?
  - Wat is het verschil in CSS tussen `color` en `background-color`?
