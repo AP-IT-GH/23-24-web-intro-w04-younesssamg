@@ -54,13 +54,14 @@ Wanneer je alle oefeningen hebt afgewerkt, kan je op je `Github Repo` gaan naar 
 | attribute            | Een deel van de openingstag dat meer informatie geeft over het element.                                                                    |
 | attribute-key        | De naam van het attribute. Dit staat aan de linkerkant van het = teken.                                                                    |
 | attribute-value      | De waarde van het attribute. Dit staat aan de rechterkant van het = teken.                                                                 |
-| src attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
-| alt attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
-| href attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
+| src-attribute        | Dit attribute geeft een verwijzing naar een extern bestand (zoals een afbeelding of javascript bestand).                                   |
+| alt-attribute        | Dit attribute geeft een naam aan een afbeelding. Wanneer de afbeelding zelf niet geladen kan worden, wordt deze naam getoond in de plaats. |
+| href-attribute       | Dit attribute geeft een verwijzing naar een andere website of pagina.                                                                      |
 
 ## 📚 bronnen
 
-- [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/html/html-structuur)
-- [Bootstrap](https://getbootstrap.com)
+- [AP cursus Webtechnologie (HTML)](https://apwt.gitbook.io/g_webtechnologie/)
 - [w3schools](https://www.w3schools.com)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Bootstrap](https://getbootstrap.com)
+- [Bootstrap documentatie](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
